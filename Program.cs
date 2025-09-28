@@ -32,6 +32,3 @@ Console.WriteLine("HEllo . Welcome to the spare parts inventory!");
         }
     }
 }
-```
-
-}
